@@ -2,8 +2,8 @@ pysha3==1.0.2
 pytest~=6.2.2
 pytest-cov
 ecdsa>=0.17.0
-eth-keys==0.3.3
-mnemonic
+eth-keys<0.4.0,>=0.3.4
+mnemonic==0.19
 bip-utils==2.4.0
 eth-keyfile==0.5.1
 rlp==1.2.0
